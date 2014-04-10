@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Fuelox", ".", "{0279969C-8A29-4659-B3CD-9F20D0488D98}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Fuelox"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Fuelox\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Fuelox\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Fuelox"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Fuelox\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Fuelox\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50789"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0279969C-8A29-4659-B3CD-9F20D0488D98}.Debug|.NET.ActiveCfg = Debug|.NET
+		{0279969C-8A29-4659-B3CD-9F20D0488D98}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
