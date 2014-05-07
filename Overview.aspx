@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Uses.aspx.cs" Inherits="Uses" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Overview.aspx.cs" Inherits="Overview" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -69,7 +69,7 @@ Email:rtaylor@thefuelox.com
                 <li ><a href="Home.aspx">Home</a></li>
                 <li class="parent current"><a href="Overview.aspx">Product Information</a>
                     <ul>
-                       <%-- <li><a href="Howitswork.aspx">How it Works</a></li>
+                        <%--<li><a href="Howitswork.aspx">How it Works</a></li>
                         <li><a href="Benefits.aspx">Benefits</a></li>
                         <li><a href="Uses.aspx">Uses</a></li>
                         <li><a href="Standardmet.aspx">Standards Met</a></li>
@@ -105,23 +105,48 @@ Email:rtaylor@thefuelox.com
 		<div class="row block03">
 			<div class="col-2-3">
 				<div class="wrap-col">
-                <div class="heading"><h2>Uses</h2></div>
-					<article>
-					 
- 
-<p><strong>Sea</strong> – tug boats, barges, cargo ships, cruise lines, yachts and more.
-</p>
-<p>
-<strong>Land</strong> – trucks, trains, farming equipment, mining equipment, power generators, factories, heating oil and more.
-</p>
-<p>
-<strong>Air </strong>– airplanes, helicopters and more.
-</p>
+                <div class="heading"><h2>Overview</h2></div>
+                <br />
+					<b>Fuel Ox</b> enhances fuel so that engines can burn fuel slower and more completely. With 
+					 better fuel combustion, engines can utilize fuel more efficiently, increase horse power
+					  and produce less pollution. Fuel Ox contains no alcohol nor any other substance that
+					   damages fuel systems. The additive is compatible with all petroleum-based products
+					    and does not require mixing. <br />
+					    <br /><br />
+<table style="width:98%">
+<tr>
+<td style="width:60%"><b><span style="color:Red;">7-12% improvement in fuel economy!</span></b>
+<ul style="list-style:decimal; margin-left:20px;" >
+<li>Safe and effective in all petroleum-based products</li>
+<li>Improvesfuelconsumption</li>
+<li>Reducessootemissions&NOXgas</li>
+<li>Lubricatesthefuelsystem</li>
+<li>Eliminatesbacteriagrowthinfuel</li>
+<li>Removeswaterfromfuel</li>
+<li>Cleansfuelpumpandinjectors</li>
+<li>Protectsagainsttankcorrosion</li>
+<li>Preventscatalyticoxidation</li>
+<li>Eliminates and prevents formation ofsolidsinfuel</li>
+<li>IncreasesBTU’sperpoundoffuel</li>
+<li>Containsnoalcohol or EthyleneGlycol</li>
+</ul>
+<br />
+<br />
+<b>Our product satisfies: </b>
+<ul style="list-style:decimal; margin-left:20px;" >
+<li>ASTM(D-­‐975)-­‐AmericanSocietyforTestingandMaterialsStandard</li>
+<li>NavalSeaSystemsCommand(SEA51222)</li>
 
+<li>MilitarySpecification(MIL-­‐L87177a)</li>
+<li>DepartmentofDefenseSpecification(DOD-­‐A-­‐24682)</li>
+<li>EPA regulatory requirements</li>
+</ul></td>
+<td style=" text-align:right ">
+<img src="images/Ov.jpg" style="width:" /></td>
+</tr>
+</table>
 
-
-						
-						</article>
+<br />
 				</div>
 			</div>
 			</div>
