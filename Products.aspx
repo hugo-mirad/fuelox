@@ -110,19 +110,26 @@ Email:rtaylor@thefuelox.com
                         <div class="product" >
                             <div class="inn">
                                 <img src="images/Fuel-Ox-8-oz.jpg" />
-                                <h4>8 oz container with 1/2 oz measurement reservoir on top Treats 625 gallons of fuel</h4>
+                                <h4>8 oz container with 1/2 oz measurement reservoir on top <br />Treats 625 gallons of fuel</h4>
                             </div>
                         </div>
                         <div class="product" >
                             <div class="inn">
                                 <img src="images/Fuel-Ox-Gallon.jpg" />
-                                <h4>Gallon container Treats 10,000 gallons of fuel</h4>
+                                <h4>Gallon container <br />Treats 10,000 gallons of fuel</h4>
                             </div>
                         </div>
 					     <div class="product" >
 					        <div class="inn">
 					            <img src="images/Fuel-Ox-All.jpg" />
 					            <h4></h4>
+					        </div>
+					     </div>
+					      <div class="product" >
+					        <div class="inn">
+					            <img src="images/Fuel-Ox-2-oz.jpg" />
+					             <h4>2 oz container<br />Treats 155 Gallons of Fuel</h4>
+					           
 					        </div>
 					     </div>
 					    <div class="clear"></div> 

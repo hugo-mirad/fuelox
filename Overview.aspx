@@ -118,27 +118,27 @@ Email:rtaylor@thefuelox.com
 <td style="width:60%"><b><span style="color:Red;">7-12% improvement in fuel economy!</span></b>
 <ul style="list-style:decimal; margin-left:20px;" >
 <li>Safe and effective in all petroleum-based products</li>
-<li>Improvesfuelconsumption</li>
-<li>Reducessootemissions&NOXgas</li>
-<li>Lubricatesthefuelsystem</li>
-<li>Eliminatesbacteriagrowthinfuel</li>
-<li>Removeswaterfromfuel</li>
-<li>Cleansfuelpumpandinjectors</li>
-<li>Protectsagainsttankcorrosion</li>
-<li>Preventscatalyticoxidation</li>
-<li>Eliminates and prevents formation ofsolidsinfuel</li>
-<li>IncreasesBTU’sperpoundoffuel</li>
-<li>Containsnoalcohol or EthyleneGlycol</li>
+<li>Improves fuel consumption</li>
+<li>Reduces so otemissions & NOX gas</li>
+<li>Lubricates the fuel system</li>
+<li>Eliminates bacteria growth in fuel</li>
+<li>Removes water from fuel</li>
+<li>Cleans fuel pump and injectors</li>
+<li>Protects against tank corrosion</li>
+<li>Prevents catalytic oxidation</li>
+<li>Eliminates and prevents formation of solids in fuel</li>
+<li>Increases BTU’s per pound of fuel</li>
+<li>Contains no alcohol or Ethylene Glycol</li>
 </ul>
 <br />
 <br />
 <b>Our product satisfies: </b>
 <ul style="list-style:decimal; margin-left:20px;" >
-<li>ASTM(D-­‐975)-­‐AmericanSocietyforTestingandMaterialsStandard</li>
-<li>NavalSeaSystemsCommand(SEA51222)</li>
+<li>ASTM (D-­‐975) -­‐ American Society for Testing and Materials Standard</li>
+<li>Naval Sea Systems Command (SEA51222)</li>
 
-<li>MilitarySpecification(MIL-­‐L87177a)</li>
-<li>DepartmentofDefenseSpecification(DOD-­‐A-­‐24682)</li>
+<li>Military Specification (MIL-­‐L87177a)</li>
+<li>Department of Defense Specification (DOD-­‐A-­‐24682)</li>
 <li>EPA regulatory requirements</li>
 </ul></td>
 <td style=" text-align:right ">
