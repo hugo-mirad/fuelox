@@ -367,8 +367,8 @@ footer {margin-top: 15px;}
 	
 .products{ width:100%; margin:40px auto;  }
 .products .product{ width:48%; margin:1%; float:left; }
-.products .product .inn{ margin:0px; padding:6px; background:#000; height:241px; overflow:hidden; z-index:8; position:relative;   }
-.products .product .inn img{ width:100%; height:auto; position:relative; z-index:9; }
+.products .product .inn{ margin:0px; padding:6px; background:#000; height:700px; overflow:hidden; z-index:8; position:relative; text-align:center;   }
+.products .product .inn img{ width:auto; height:680px; margin:5px auto; position:relative; z-index:9; }
 .products .product .inn  h4{ text-align:center; font-size:14px; line-height:19px; 
 	position:absolute; bottom:0; left:0; width: 94%; background:rgba(0,0,0,0.8); padding: 3%; z-index:10; color:#ccc; font-weight:normal
 }

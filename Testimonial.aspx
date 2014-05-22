@@ -193,26 +193,54 @@ savings of 8-10% on our trucks and slightly higher on our cars. The result is mo
 <td>Trucking Company</td>
 <td>Tractor Trailer</td>
 <td>Savings- 5.7%</td>
-<td>Jan-13</td>
+<td>Jan-14</td>
 </tr>
 <tr>
 <td>Trucking Company</td>
 <td>Tractor Trailer</td>
 <td>Savings- 7.4%</td>
-<td>Jan-13</td>
+<td>Jan-14</td>
 </tr>
 <tr>
 <td>Trucking Company</td>
 <td>Tractor Trailer</td>
 <td>Savings- 5.6%</td>
-<td>Feb-13</td>
+<td>Feb-14</td>
 </tr>
 <tr>
 <td>Trucking Company</td>
 <td>Tractor Trailer</td>
 <td>Savings- 7-12%</td>
-<td>Feb-13</td>
+<td>Feb-14</td>
 </tr>
+
+
+<tr>
+<td>Municipality</td>
+<td> Transport Bus</td>
+<td>Savings- 7.5%</td>
+<td>April-14</td>
+</tr>
+<tr>
+<td>Trucking Company</td>
+<td>Tractor Trailer</td>
+<td>Savings- 10%</td>
+<td>April-14</td>
+</tr>
+<tr>
+<td>Towing & Recovery</td>
+<td>Large Tow Truck</td>
+<td>Savings- 9%</td>
+<td>May-14</td>
+</tr>
+<tr>
+<td>Trucking Company</td>
+<td>Tractor Trailer</td>
+<td>Savings- 9%</td>
+<td>May-14</td>
+</tr>
+
+
 </table>
    
 

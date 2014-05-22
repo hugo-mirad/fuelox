@@ -114,12 +114,7 @@ Email: rtaylor@thefuelox.com		</div>
                             <img src="images/slide6.jpg" /></li>
                         <li>
                             <img src="images/slide7.jpg" /></li>
-                        <li>
-                            <img src="images/slide8.jpg" /></li>
-                        <li>
-                            <img src="images/slide9.jpg" /></li>
-                        <li>
-                            <img src="images/slide10.jpg" /></li>
+                       
                     </ul>
                 </div>
             </div>
