@@ -1,4 +1,4 @@
-﻿<%@ page language="C#" AutoEventWireup="true" CodeFile="DistributionCenters.aspx.cs" Inherits="DistributionCenters" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="DistributionCenters.aspx.cs" Inherits="DistributionCenters" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -33,24 +33,24 @@
     <script src="js/responsiveslides.js"></script>
 
     <script>
-		$(function () {
-		  $("#slider").responsiveSlides({
-			auto: true,
-			pager: false,
-			nav: true,
-			speed: 500,
-			maxwidth: 962,
-			namespace: "centered-btns"
-		  });
-		});
+        $(function () {
+            $("#slider").responsiveSlides({
+                auto: true,
+                pager: false,
+                nav: true,
+                speed: 500,
+                maxwidth: 962,
+                namespace: "centered-btns"
+            });
+        });
     </script>
 
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-        <!--------------Header--------------->
-        <header>
+        <div>
+            <!--------------Header--------------->
+            <header>
 	<div class="wrap-header zerogrid">
 		<div id="logo"><a href="#"><img src="./images/logo.png"/></a></div>
 		
@@ -61,7 +61,7 @@ Email:rtaylor@thefuelox.com
 		</div>
   </div>
 </header>
-        <nav>
+            <nav>
 	<div class="wrap-nav zerogrid">
 		<div class="menu">
 			
@@ -99,46 +99,59 @@ Email:rtaylor@thefuelox.com
 			
 	</div>
 </nav>
-        <!--------------Content--------------->
-        <section id="content">
+            <!--------------Content--------------->
+            <section id="content">
 	<div class="wrap-content zerogrid">
 		<div class="row block03">
 			<div class="col-2-3">
 				<div class="wrap-col">
                 <div class="heading"><h2>Distribution Centers</h2></div>
 					<article>
-					 
-<p>                    <b>Europe:</b><br>
 
-
-</p>
-
-<p>   RO.VI.B. srl<br />
-Piazza della Liberta' n. 6<br />
-Gaeta (LT), 04024, Italy
- <br /><br />
-Frank Sirignano<br />
-Number: +393277712053
-<br />
-Pietro Ciccarelli<br />
-Number: +393394447370
-<br />
-Gaetano Marzano<br />
-Number: +393939043334<br />
-</p><br />
-      <b>Southeast Asia:</b> Rick Reece
-<br><br />
-<b>United States of America:</b> Rand Taylor (917-345-5800) & Alec Taylor (551-221-7640)
                
                      			
-						</article>
+					
+
+<p><b>USA:</b><br /></p>
+
+<p>
+104 Old Driftway Lane<br />
+Lebanon, NJ 08833<br />
+Rand Taylor +1 917 345 5800<br />
+Alec Taylor +1 551 221 7640<br />
+</p><br />
+<p>
+<b>Europe:</b><br /></p>
+RO.VI.B. srl<br />
+Piazza della Liberta' n. 6<br />
+Gaeta (LT), 04024, Italy <br />
+Frank Sirignano +393277712053 <br />
+Pietro Ciccarelli +393394447370 <br />
+Gaetano Marzano +393939043334 <br />
+<p><br />
+<b>Balkans:</b><br /></p>
+<p>
+Mar Company<br />
+St. Sofiska 26<br />
+Skopje, R. Macedonia<br />
+Risto Murov & Zlatko (Zack) Poposki ++ 389 72 646 650<br /></p>
+                        <br />
+
+<p><b>Southeast Asia:</b><br /></p>
+ <p>
+Village Focus International<br />
+Unit 14, No.207<br />
+Vientiane, Laos<br />
+Rick Reece +856 (0)21 312519 <br />
+                    </p>
+                        	</article>
 				</div>
 			</div>
 			</div>
 	</div>
 </section>
-        <!--------------Footer--------------->
-        <footer>
+            <!--------------Footer--------------->
+            <footer>
 	<div class="wrap-footer zerogrid">
 		<div class="row block09">
 			<div class="col-1-4">
@@ -175,7 +188,7 @@ Number: +393939043334<br />
 		</div>
 	</div>
 </footer>
-    </div>
+        </div>
     </form>
 </body>
 </html>
